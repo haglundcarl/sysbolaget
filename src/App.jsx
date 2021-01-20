@@ -52,7 +52,7 @@ function App() {
       <header className="App-header">
         <AmplifySignOut />
         <h2>
-          Sysbolaget 3.0
+          Sysbolaget 4.0
         </h2>
       </header>
       <div className="beerList">
