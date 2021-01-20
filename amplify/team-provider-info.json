@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sysbolaget-dev-224952-authRole",
+      "UnauthRoleArn": "arn:aws:iam::797459922897:role/amplify-sysbolaget-dev-224952-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::797459922897:role/amplify-sysbolaget-dev-224952-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-sysbolaget-dev-224952-deployment",
+      "UnauthRoleName": "amplify-sysbolaget-dev-224952-unauthRole",
+      "StackName": "amplify-sysbolaget-dev-224952",
+      "StackId": "arn:aws:cloudformation:eu-west-2:797459922897:stack/amplify-sysbolaget-dev-224952/4319e5d0-5aa0-11eb-b6c3-06e29701fe84",
+      "AmplifyAppId": "d23711k9uzzxcw"
+    },
+    "categories": {
+      "auth": {
+        "sysbolagetc2145c70": {}
+      }
+    }
+  }
+}

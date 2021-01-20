@@ -1,0 +1,7 @@
+type Beer @model {
+  id: ID!
+  title: String!
+  description: String!
+  filePath: String
+  like: Int!
+}

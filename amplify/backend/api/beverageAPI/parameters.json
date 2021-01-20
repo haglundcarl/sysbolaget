@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "beverageAPI",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authsysbolagetc2145c70",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
